@@ -7,17 +7,18 @@ Sou universitário em ADS (Análise e Desenvolvimento de Sistemas), e estagiári
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atzac&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Atzac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Atzac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Atzac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Atzac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Atzac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Atzac-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Atzac-Angular" height="30" width="40" src="https://unpkg.com/simple-icons@v7/icons/angular.svg" style="color: red" >
-
-  <img align="center" alt="Atzac-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Atzac-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Atzac-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Atzac-Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Atzac-React" height="40" width="40" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" alt="Atzac-React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Atzac-React-Native" height="40" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Atzac-Angular" height="40" width="40" src="https://skillicons.dev/icons?i=angular" style="color: red" >
+  <img align="center" alt="Atzac-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Atzac-Git" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="Atzac-Git" height="40" width="40" src="https://skillicons.dev/icons?i=figma">
 </div>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
   
   ##
  
@@ -25,7 +26,5 @@ Sou universitário em ADS (Análise e Desenvolvimento de Sistemas), e estagiári
   <a href="https://www.instagram.com/_isaq_17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isaacquidutemelo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaac-quidute-458952209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
 
