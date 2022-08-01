@@ -17,7 +17,7 @@ Sou universitário em ADS (Análise e Desenvolvimento de Sistemas), e estagiári
 
   <img align="center" alt="Atzac-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
   
   ##
  
