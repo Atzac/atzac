@@ -1,5 +1,5 @@
 ### Olá! me chamo Isaac
-Sou universitário em ADS (Análise e Desenvolvimento de Sistemas), e estagiário em desenvolvimento font-end (web/mobile) na Stalebu Connections
+Sou universitário em ADS (Análise e Desenvolvimento de Sistemas), e desenvolvedor font-end na Brisanet Telecomunicações (Grupo Brisanet)
 
 <div align="center">
   <a href="https://github.com/atzac">
