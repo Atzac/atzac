@@ -14,6 +14,7 @@ Sou universitário em Análise e Desenvolvimento de Sistemas, e desenvolvedor fo
   <img align="center" alt="Atzac-React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
   <img align="center" alt="Atzac-React-Native" height="40" width="40" src="https://skillicons.dev/icons?i=react">
   <img align="center" alt="Atzac-Angular" height="40" width="40" src="https://skillicons.dev/icons?i=angular" style="color: red" >
+  <img align="center" alt="Atzac-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=sass">
   <img align="center" alt="Atzac-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="Atzac-Git" height="40" width="40" src="https://skillicons.dev/icons?i=github">
   <img align="center" alt="Atzac-Git" height="40" width="40" src="https://skillicons.dev/icons?i=figma">
