@@ -1,11 +1,11 @@
 ### Olá! me chamo Isaac
 Sou universitário em Análise e Desenvolvimento de Sistemas, e desenvolvedor font-end na Brisanet Telecomunicações (Grupo Brisanet)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/atzac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atzac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atzac&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Atzac-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Atzac-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
