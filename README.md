@@ -1,5 +1,5 @@
 ### Olá! me chamo Isaac
-Sou universitário em Análise e Desenvolvimento de Sistemas, e desenvolvedor font-end na Brisanet Telecomunicações (Grupo Brisanet)
+Sou formado em Análise e Desenvolvimento de Sistemas, e sou desenvolvedor font-end na Brisanet Telecomunicações (Grupo Brisanet)
 
 <!-- <div align="center">
   <a href="https://github.com/atzac">
