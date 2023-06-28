@@ -1,6 +1,5 @@
 ### Olá! me chamo Isaac
-Sou formado em Análise e Desenvolvimento de Sistemas, e sou desenvolvedor font-end na Brisanet Telecomunicações (Grupo Brisanet)
-
+Sou formado em Análise e Desenvolvimento de Sistemas, e sou desenvolvedor fullstack na Enkel TI
 <!-- <div align="center">
   <a href="https://github.com/atzac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atzac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
